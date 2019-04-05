@@ -4,7 +4,7 @@ public class Round {
 	private static int roundNumber=1;
 	private int targetNumber;
 	private int[] Numbers;
-	private int winner;
+	private int winner=0;
 	
 	
 	//
